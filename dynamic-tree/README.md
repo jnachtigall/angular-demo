@@ -17,8 +17,8 @@ Also, I have separated the developer application and the library source code.
 
 To test this, download the source then open the index.html on a runnning web server.
 
-Note: You must this example of a web server.
-For security reason AngularJS cannot open a file thank to the classic file protocol (Cross-scripting security)
+Note: You must run this example from a web server.
+For security reasons AngularJS cannot open files using the classic file protocol (Cross-scripting security).
 So, you must run a web server, and copy the content of this project into it.
 Or you can use IDEA 13 which automatically start a light web server on the background to help you to debug.
 
